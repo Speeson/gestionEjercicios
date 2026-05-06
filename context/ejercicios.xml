@@ -1,0 +1,19 @@
+<ejercicios>
+    <ejercicio id="1">
+        <titulo>Estructuras de control</titulo>
+        <enunciado>Escribe un programa que use un bucle for para imprimir los números del 1 al 10.</enunciado>
+        <dificultad>Fácil</dificultad>
+        <etiquetas>
+            <etiqueta>bucles</etiqueta>
+            <etiqueta>for</etiqueta>
+        </etiquetas>
+    </ejercicio>
+    <ejercicio id="2">
+        <titulo>Manejo de arrays</titulo>
+        <enunciado>Crear un programa que encuentre el número mayor en un array de enteros.</enunciado>
+        <dificultad>Media</dificultad>
+        <etiquetas>
+            <etiqueta>arrays</etiqueta>
+        </etiquetas>
+    </ejercicio>
+</ejercicios>

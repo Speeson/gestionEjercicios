@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "context",
+        "src"
+    ],
+    "java.project.referencedLibraries": [
+        "lib\\BaseX.jar"
+    ]
+}

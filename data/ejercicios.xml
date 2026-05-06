@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ejercicios>
+    <ejercicio id="1">
+        <titulo>Ejercicio Parida</titulo>
+        <enunciado>blablabla</enunciado>
+        <dificultad>Dificil</dificultad>
+        <etiquetas>
+            <etiqueta>Todo</etiqueta>
+            <etiqueta>el</etiqueta>
+            <etiqueta>bucle</etiqueta>
+        </etiquetas>
+    </ejercicio>
+    <ejercicio id="2">
+        <titulo>Matematicas</titulo>
+        <enunciado>jejeje</enunciado>
+        <dificultad>Media</dificultad>
+        <etiquetas>
+            <etiqueta>Matrices</etiqueta>
+        </etiquetas>
+    </ejercicio>
+    <ejercicio id="3">
+        <titulo>Ejercicio Arrays</titulo>
+        <enunciado>Crea 3 arrays</enunciado>
+        <dificultad>Facil</dificultad>
+        <etiquetas>
+            <etiqueta>bucles</etiqueta>
+            <etiqueta>arrays</etiqueta>
+        </etiquetas>
+    </ejercicio>
+</ejercicios>
